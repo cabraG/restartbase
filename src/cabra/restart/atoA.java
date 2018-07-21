@@ -17,6 +17,8 @@ public class atoA {
 				 
 			 }
 		}
+		
+		System.out.println("hello");
 		System.out.println(new String(arr));
 		
 	}
